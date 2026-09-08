@@ -2,7 +2,7 @@
   
   <h2 style="color: #005a9e; margin-top: 0;">Introduction to Expressions</h2>
   <p style="color: #5c5c5c; font-size: 0.9em; margin-bottom: 15px;">
-    <strong>Completed</strong> &bull; <span style="color: #107c10; font-weight: bold;">100 XP</span> &bull; 2 minutes
+   
   </p>
   
   <p style="color: #24292e; line-height: 1.5;">
